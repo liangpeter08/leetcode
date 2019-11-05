@@ -5,4 +5,4 @@ been accepted.
 
 All solutions are original and attempted without solution checking. Some solutions are definite not ideal.
 
-liangpeter.com
+visit `liangpeter.com`
