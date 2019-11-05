@@ -1,0 +1,1 @@
+FYI Some of the solutions might not be ideal
