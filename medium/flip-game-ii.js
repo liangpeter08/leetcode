@@ -23,7 +23,14 @@ var helperFn = function(currS, startPlayerTurn) {
     
     const result = [];
     for(var i = 0; i < queue.length; i++) {
-        result.push(helperFn(queue[i], !startPlayerTurn))
+        const k = helperFn(queue[i], !startPlayerTurn);
+        if(startPlayerTurn && k) {
+            return k;
+        }
+        if(!startPlayerTurn && !k) {
+            return k;
+        }
+        result.push(k);
     }
     if (startPlayerTurn) {
         const reducer = (ac, curr) => ac || curr;
