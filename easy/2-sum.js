@@ -7,10 +7,10 @@ var twoSum = function(nums, target) {
     const hashMap = {};
     for (let i = 0; i < nums.length; i++) {
         const complement = target - nums[i];
-        if (nums[i] in hashMap) {
-            return [hashMap[nums[i]], i];
+        if (complement in hashMap) {
+            return [hashMap[complement], i];
         } else {
-            hashMap[complement] = i;
+            hashMap[nums[i]] = i;
         }
     }
 };

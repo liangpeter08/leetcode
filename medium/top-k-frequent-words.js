@@ -17,7 +17,8 @@ var topKFrequent = function(words, k) {
     }
     const retVal= Object.keys(dict).sort((a, b) => {
         if (dict[a] === dict[b]) {
-            return a < b ? -1 : 1;
+            // z > a true
+            return a > b ? 1 : -1;
         }
         return dict[a] < dict[b] ? 1 : -1;
     });
