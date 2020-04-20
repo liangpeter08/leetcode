@@ -22,3 +22,26 @@ var helper = function(state, open, close, solution) {
         helper(state + ')', open, close - 1, solution);
     }
 };
+
+
+// /**
+//  * @param {number} n
+//  * @return {string[]}
+//  */
+// var generateParenthesis = function(n) {
+//     const solution = [];
+//     generateParanthesis('', n, n, solution);
+//     return solution;
+// };
+
+// const generateParanthesis = function(currAns, openCount, closeCount, solution) {
+//     if (openCount === 0 && closeCount === 0) {
+//         solution.push(currAns);
+//     }
+//     if (openCount > 0) {
+//         generateParanthesis(currAns + '(', openCount - 1, closeCount, solution);
+//     }
+//     if (openCount < closeCount) {
+//         generateParanthesis(currAns + ')', openCount, closeCount - 1, solution);
+//     }
+// };

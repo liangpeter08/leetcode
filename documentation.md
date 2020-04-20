@@ -60,6 +60,8 @@
 ## Apple
 
 #### Apple phone interview 1 (Team 1: Apple TV) (friday, April 17)
+
+#### phone Interview
 1. design a sorting algorithm for string based on a new
 ordering of the alphabet (random order)
 
@@ -79,6 +81,9 @@ z g d a m k d j q t n ...
     How do you know when to spawn a new node?
      - CPU or Memory utilization
      - Forgot during interview => can also be provision base on traffic
+
+#### Onsite Interview (Monday, April 27th, 2020)
+
 
 #### Apple phone interview 2 (Team 2: Itunes) (rescheduled)
 
