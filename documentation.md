@@ -85,7 +85,7 @@ z g d a m k d j q t n ...
 #### Onsite Interview (Monday, April 27th, 2020)
 
 
-#### Apple phone interview 2 (Team 2: Itunes) (rescheduled)
+#### Apple phone interview (Team 2: Itunes) (Thursday, April 23rd)
 
 
 ## Spotify (Tuesday, April 21st)
