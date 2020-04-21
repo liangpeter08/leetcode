@@ -45,6 +45,7 @@
 1. // In an array, elements at any two indices can be swapped in a single operation called a move. For example, if the array is arr = [17, 4, 8], swap arr[0] = 17 and arr[2] = 8 to get arr' = [8, 4, 17] in a single move. Determine the minimum number of moves required to sort an array such that all of the even elements are at the beginning of the array and all of the odd elements are at the end of the array.
 // arr = [6, 3, 4, 5]
 // Output = 1
+ => basically use i, j counter
 2. find min range of k sorted array
  (only 20 min, suppose to be manager behavior interview (talked for a while))
  example => [
