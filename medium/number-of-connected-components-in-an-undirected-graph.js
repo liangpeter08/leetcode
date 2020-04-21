@@ -6,16 +6,13 @@ var countComponents = function(n, edges) {
     for (let i = 0; i < edges.length; i++) {
         const [first, next] = edges[i];
         if(!nodeList[first]) {
-            nodeList[first] = [next];
-        } else {
-            nodeList[first].push(next);
-        }
-        
+            nodeList[first] = [];
+        } 
         if(!nodeList[next]) {
-            nodeList[next] = [first];
-        } else {
-            nodeList[next].push(first);
-        }   
+            nodeList[next] = [];
+        }
+        nodeList[first].push(next);
+        nodeList[next].push(first);
     }
     let count = 0;
     for (const node in nodeList) {
