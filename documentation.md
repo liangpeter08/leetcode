@@ -92,7 +92,7 @@ z g d a m k d j q t n ...
 
 ## Spotify (Tuesday, April 21st)
 
-Phone Interview
+#### Phone Interview
 1. knowledge question css (pseudo selector, pseudo element, ...)
 2. javascript knowledge (setTimeout, event cycle)
 3. html event propagation (downwards and upwards)
