@@ -103,7 +103,7 @@ z g d a m k d j q t n ...
 #### Onsite (Monday, May 4st)
 
 ## Instagram (Wednesday, April 29th)
-## Citadel (Monday, April 27)
+## Citadel (rescheduled)
 ## Bloomberg (Wednesday, May 6th)
 
 
