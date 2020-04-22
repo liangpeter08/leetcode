@@ -37,14 +37,15 @@
     a. ABAB, YXYX => true
     b. CDEF, ABCD => true
     c. ACBD, AACB => false
-    => use count1, count2 to count the unique characters, map each character to a count, use two maps
-  2. find any possible combinations of a string in where there is no two character that aren't the same next to each other
+    => use count1, count2 to count the unique characters, map each character to a count, use two maps \\
+  2. find any possible combinations of a string in where there is no two character that aren't the same next to each other \\
   if not possible output not possible.
     a. aab => ['aba']
     b. aaababbbaa => 'ababababa'
-      => use a hashMap, count the number of character for each, decrement the count of the max element count first
+      => use a hashMap, count the number of character for each, \\
+       decrement the count of the max element count first \\
       => optimize using a max heap
-      actual answer: check if max character - 1: sum of all other characters
+      actual answer: check if max character - 1: sum of all other characters \\
         => generate a solution by just alternating (O(n))
 
 ## Walmart (Offer, but on hold)
@@ -52,7 +53,8 @@
 #### phone Interview
 1. weird interview (interviewer copied and pasted my leetcode for min-stack (easy leetcode))
   - improve the performance of this code
-    1. for the minStack, do not push on the minValue if it's the minValue is unchanged, and when you pop, check if the value is the minValue, and pop it off.
+    1. for the minStack, do not push on the minValue if it's the minValue is unchanged, \\
+     and when you pop, check if the value is the minValue, and pop it off.
     2. Can you use one stack instead of two?
      - yes, push and pop value and minValue on to the same stack
      - additional handling since the you may be push one or two items at any given time
