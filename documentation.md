@@ -90,9 +90,9 @@ z g d a m k d j q t n ...
 
 #### Apple phone interview (Team 2: Itunes) (Thursday, April 23rd)
 
-## Spotify (Tuesday, April 21st)
+## Spotify (On going)
 
-#### Phone Interview
+#### Phone Interview  (Tuesday, April 21st)
 1. knowledge question css (pseudo selector, pseudo element, ...)
 2. javascript knowledge (setTimeout, event cycle)
 3. html event propagation (downwards and upwards)
@@ -100,6 +100,7 @@ z g d a m k d j q t n ...
 5. implement promises race and last functions
 6. leetcode question easy: two sum
 
+#### Onsite (Monday, May 4st)
 
 ## Instagram (Wednesday, April 29th)
 ## Citadel (Monday, April 27)
