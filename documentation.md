@@ -14,7 +14,7 @@
 3. system design
 4. behaviour
 
-## Yext (Ongoing)
+## Yext (passed onsite, position filled, on the top of the list once position becomes available)
 
 #### phone Interview
 1. convert a base 10 value to an alphabetical numerical system
