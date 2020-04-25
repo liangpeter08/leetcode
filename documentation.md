@@ -72,6 +72,7 @@
      [4, 7, 12, 13],
      [6, 22 55, 88],
  ] => [5,4,6]
+Note: Forgot during interview Min and Max heap will optimize this
 3. design a shopping cart (system design)
  => not design api or frontend state
  => design the class interaction (OOO testing)
