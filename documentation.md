@@ -80,9 +80,9 @@ Note: Forgot during interview Min and Max heap will optimize this
  => a6b7d10
  (leetcode medium question: a6[b4[cd]ef])
 
-## Apple
+## Apple (Failed, transcript not good enough)
 
-#### Apple phone interview 1 (Team 1: Apple TV) (friday, April 17)
+#### Apple phone interview
 
 #### phone Interview
 1. design a sorting algorithm for string based on a new
@@ -107,12 +107,16 @@ z g d a m k d j q t n ...
 
 #### Onsite Interview (Monday, April 27th, 2020)
 
-
-#### Apple phone interview (Team 2: Itunes) (Thursday, April 23rd)
+1. Domain regex
+2. AWS details
+3. Design top songs and album
+4. Design looker dashboard
+5. Director ask me to implement a semaphore
 
 ## Spotify (On going)
 
 #### Phone Interview  (Tuesday, April 21st)
+
 1. knowledge question css (pseudo selector, pseudo element, ...)
 2. javascript knowledge (setTimeout, event cycle)
 3. html event propagation (downwards and upwards)
@@ -122,9 +126,18 @@ z g d a m k d j q t n ...
 
 #### Onsite (Monday, May 4st)
 
-## Instagram (Wednesday, April 29th)
-## Citadel (rescheduled)
+## Facebook (Wednesday, April 29th)
+
+
+#### Phone Interview  (Wednesday, April 29th)
+1. Find the sum of all node within range (inclusive)
+ => inorder traversal with slight optimization
+2. Find the longest substring without repeating characters
+ => hashMap
+
 ## Bloomberg (Wednesday, May 6th)
+
+## Citadel (rescheduled)
 
 
 
