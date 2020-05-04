@@ -54,7 +54,7 @@
 #### phone Interview
 1. weird interview (interviewer copied and pasted my leetcode for min-stack (easy leetcode))
   - improve the performance of this code
-    1. for the minStack, do not push on the minValue if it's the minValue is unchanged, \\
+    1. for the minStack, do not push on the minValue if it's the minValue is unchanged,
      and when you pop, check if the value is the minValue, and pop it off.
     2. Can you use one stack instead of two?
      - yes, push and pop value and minValue on to the same stack
