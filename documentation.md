@@ -125,9 +125,12 @@ z g d a m k d j q t n ...
 6. leetcode question easy: two sum
 
 #### Onsite (Monday, May 4st)
+1. naive string compression / queue implementation
+2. values interview
+3. design the spotify friend's playing list (system design/ backend/ frontend)
+4. web programming, tree traversal, event propagation, class inheritance
 
 ## Facebook (Wednesday, April 29th)
-
 
 #### Phone Interview  (Wednesday, April 29th)
 1. Find the sum of all node within range (inclusive)
@@ -135,7 +138,15 @@ z g d a m k d j q t n ...
 2. Find the longest substring without repeating characters
  => hashMap
 
+#### onsite
+
 ## Bloomberg (Wednesday, May 6th)
+
+#### phone interview
+1. design a tracking average time system (classes)
+2. minHeap fink k max
+
+#### onsite
 
 ## Citadel (rescheduled)
 
