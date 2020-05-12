@@ -113,7 +113,7 @@ z g d a m k d j q t n ...
 4. Design looker dashboard
 5. Director ask me to implement a semaphore
 
-## Spotify (On going)
+## Spotify (Offer)
 
 #### Phone Interview  (Tuesday, April 21st)
 
