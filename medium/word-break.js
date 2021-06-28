@@ -1,3 +1,6 @@
+
+// memoize the substring already tried
+// can use set
 var wordBreak = function(s, wordDict) {
     const stack = [s];
     const cache = {};
